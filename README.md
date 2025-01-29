@@ -1,4 +1,4 @@
-# ToDo-App ![App logo](https://github.com/isharaUmayanaga/ToDo-App/blob/master/app/src/main/res/drawable/applogo.jpeg)
+# ToDo-App 
 <img src="https://github.com/isharaUmayanaga/ToDo-App/blob/master/app/src/main/res/drawable/applogo.jpeg" alt="App Logo" width="100" hight="100">
 
 MAD Lab Exam 4
